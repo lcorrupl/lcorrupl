@@ -2,7 +2,6 @@
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://i.pinimg.com/736x/09/88/fa/0988fa1ca97b45550fc65e8f015a97ec.jpg" alt="gif místico centrado">
   </div>
-</div>
 
 <br>
 
