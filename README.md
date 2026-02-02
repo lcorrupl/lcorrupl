@@ -9,7 +9,7 @@
 ### Redes
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Chess.com](https://img.shields.io/badge/chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/)
+[![Chess.com](https://img.shields.io/badge/chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/corrup33)
 [![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
 
 
