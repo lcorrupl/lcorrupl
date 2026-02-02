@@ -1,73 +1,74 @@
-
-# Welcome to Luis's GitHub
-
 <div align="center">
 
-![Banner](https://i.imgur.com/vHpxr8G.jpeg)
+# 𓋹 Hola, soy Corrup 𓋹
+
+![Banner](https://i.pinimg.com/1200x/6a/b0/e7/6ab0e7628fdc9e1015f81cf54b4a0cd0.jpg)
+
+---
+
+### 🔗 Nexos Digitales
+[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corrup504)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 </div>
 
 ---
 
-### 🔗 Social Links
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcorrupl)
-[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/lcorrupl)
-[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/lcorrupl)
-[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/lcorrupl)
-[![Chess.com](https://img.shields.io/badge/chess.com-000000?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/lcorrupl)
-
----
-
-## 👤 About me
+## 👤 Esencia
 
 <table border="0">
   <tr>
     <td width="60%">
-      <p>Hello there! <b>I'm Luis Corrales</b>, a Systems Engineering student. I enjoy learning new technologies and solving problems on Codeforces and CodeChef.</p>
       <p>
-        🏛️ Studying at the <b>National University of Costa Rica (UNA)</b><br>
-        👨‍🏫 <b>Private tutor in C++</b> at the University<br>
-        🏆 <b>Competitor in the ICPC (2025)</b><br>
-        ♟️ <b>Chess Player</b>
+        Soy <b>Alejandro</b>, conocido como <b>Corrup</b>.  
+        Estudiante de <b>Ingeniería de Software</b>. No porque me apasione la carrera, sino porque ya estoy aquí y pienso exprimirla hasta que sirva para algo más grande.
+      </p>
+      <p>
+        Me enfoco en <b>desarrollo web</b>, <b>automatización</b> y <b>sistemas</b>.  
+        Me interesa crear soluciones prácticas, rápidas y replicables.  
+        Menos teoría vacía, más cosas que funcionen.
+      </p>
+      <p>
+        🧠 Interés fuerte en sistemas, automatización y arquitectura<br>
+        🐧 Usuario de <b>Linux</b> (Arch Linux / Windows dual)<br>
+        🌐 Desarrollo web orientado a negocios reales<br>
+        ⚙️ Explorando <b>Docker</b> para entornos consistentes y tesis<br>
+        🕯️ Filosofía, arquetipos, trascendencia y lo que no se ve
       </p>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="240" alt="animation"/>
+      <img src="https://i.pinimg.com/736x/3d/0e/a2/3d0ea2dfaa6fe9608037395bb911a98b.jpg" width="100%">
     </td>
   </tr>
 </table>
 
 ---
 
-## ⚙️ Technologies
+## ⚙️ Herramientas y Tecnologías
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
 <br>
-![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Statistics
+## 📊 Registro de Actividad
 
-<div align="center">
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=lcorrupl&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
-| **GitHub Stats** | **Streak** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=lcorrupl&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="300" /> | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lcorrupl&theme=dark) |
 
-### Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lcorrupl&theme=github-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
-
-</div>
