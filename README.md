@@ -6,17 +6,18 @@
 
 ---
 
-### 🔗 Nexos Digitales
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corrup504)
+### Redes
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Chess.com](https://img.shields.io/badge/chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/)
 [![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)](#)
+
 
 </div>
 
 ---
 
-## 👤 Esencia
+## Info
 
 <table border="0">
   <tr>
@@ -46,33 +47,33 @@
 
 ---
 
-## ⚙️ Herramientas y Tecnologías
+## Herramientas y Tecnologías
 
 <div align="center">
-
+  
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
-<br>
+
+![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android_studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
 
 </div>
 
 ---
 
-## 📊 Registro de Actividad
-
-<p align="center">
-  <img src="streak.svg" />
-</p>
-
+## Registro de Actividad
 
 ![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=lcorrupl&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
