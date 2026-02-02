@@ -1,0 +1,30 @@
+<svg width="400" height="400"
+     viewBox="0 0 400 400"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="circle">
+      <circle cx="200" cy="200" r="190"/>
+    </clipPath>
+  </defs>
+
+  <!-- Fondo circular -->
+  <image
+    href="https://raw.githubusercontent.com/lcorrupl/lcorrupl/main/image.png"
+    x="0"
+    y="0"
+    width="400"
+    height="400"
+    clip-path="url(#circle)"
+  />
+
+  <!-- Racha -->
+  <image
+    href="https://github-readme-streak-stats.herokuapp.com?user=lcorrupl&theme=dark&hide_border=true"
+    x="40"
+    y="140"
+    width="320"
+    height="120"
+  />
+
+</svg>
