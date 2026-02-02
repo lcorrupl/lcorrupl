@@ -22,22 +22,18 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <p>
-        Soy <b>Alejandro</b>, conocido como <b>Corrup</b>.  
-        Estudiante de <b>Ingeniería de Software</b>. No porque me apasione la carrera, sino porque ya estoy aquí y pienso exprimirla hasta que sirva para algo más grande.
-      </p>
-      <p>
-        Me enfoco en <b>desarrollo web</b>, <b>automatización</b> y <b>sistemas</b>.  
-        Me interesa crear soluciones prácticas, rápidas y replicables.  
-        Menos teoría vacía, más cosas que funcionen.
-      </p>
-      <p>
-        🧠 Interés fuerte en sistemas, automatización y arquitectura<br>
-        🐧 Usuario de <b>Linux</b> (Arch Linux / Windows dual)<br>
-        🌐 Desarrollo web orientado a negocios reales<br>
-        ⚙️ Explorando <b>Docker</b> para entornos consistentes y tesis<br>
-        🕯️ Filosofía, arquetipos, trascendencia y lo que no se ve
-      </p>
+     <p>
+  Soy Corrup.  
+  Estudio Ingeniería de Software.
+</p>
+<p>
+  Perfil para subir programas o sistemas que creo en mi tiempo libre.  
+  Me interesa que las soluciones sean simples, repetibles y funcionales.
+</p>
+<p>
+  Uso Linux como entorno principal.  
+  Desarrollo orientado a necesidades reales.  
+</p>
     </td>
     <td width="40%">
       <img src="https://i.pinimg.com/736x/3d/0e/a2/3d0ea2dfaa6fe9608037395bb911a98b.jpg" width="100%">
