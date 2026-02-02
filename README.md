@@ -1,9 +1,13 @@
+````markdown name=README.md url=https://github.com/lcorrupl/lcorrupl/blob/cf68f5bcaff3472060a5cda020430c597169f8ce/README.md
+# Welcome to Luis's GitHub
+
 <div align="center">
 
-# Welcome to Luis's Github 
-### </>
+![Banner](https://i.imgur.com/vHpxr8G.jpeg)
 
-![Banner](https://i.imgur.com/vHpxr8G.jpeg) ---
+</div>
+
+---
 
 ### 🔗 Social Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcorrupl)
@@ -12,8 +16,6 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/lcorrupl)
 [![Chess.com](https://img.shields.io/badge/chess.com-000000?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/lcorrupl)
 
-</div>
-
 ---
 
 ## 👤 About me
@@ -21,7 +23,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <p>Hello There! <b>I'm Luis Corrales</b>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some projects to practice my knowledge about JavaScript, React, Bootstrap and more.</p>
+      <p>Hello there! <b>I'm Luis Corrales</b>, a Systems Engineering student. I enjoy learning new technologies and solving problems on Codeforces and CodeChef.</p>
       <p>
         🏛️ Studying at the <b>National University of Costa Rica (UNA)</b><br>
         👨‍🏫 <b>Private tutor in C++</b> at the University<br>
@@ -30,7 +32,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicWp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%">
+      <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="240" alt="animation"/>
     </td>
   </tr>
 </table>
@@ -63,9 +65,9 @@
 
 | **GitHub Stats** | **Streak** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=lcorrupl&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcorrupl&theme=dark&background=000000&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff" width="400"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=lcorrupl&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="300" /> | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lcorrupl&theme=dark) |
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lcorrupl&theme=github-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
 
-</div>****
+</div>
